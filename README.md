@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy JuanCG13
 
-<!--
-**JuanCG13/juancg13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
 
-Here are some ideas to get you started:
+Desarrollador **Fullstack Semi Senior** especializado en **Python** y **JavaScript**. Me apasiona crear soluciones robustas y escalables utilizando tecnologías modernas como **Flask**, **Django**, **TypeScript**, **Docker** y **Nginx**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías principales
+
+- **Backend:** Python, Flask, Django
+- **Frontend:** JavaScript, TypeScript
+- **DevOps:** Docker, Nginx
+
+## 🌟 Proyectos destacados
+
+- **WhatsBot Backend & Frontend:**  
+  Chatbot para WhatsApp con inteligencia artificial.  
+
+## 📫 Conecta conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/juan-jesus-cubells-gomez-789701211/)
+
+---
+
+> “Siempre aprendiendo y buscando nuevos retos en el mundo tech.”
